@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Course 3 Week 2</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_descripcion">Descripción del contacto</string>
+    <string name="bt_siguiente">Siguiente</string>
+    <string name="fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="confirmarDatos">Confirmar Datos</string>
+    <string name="descripcion">Descripción:</string>
+    <string name="editar_datos">Editar Datos</string>
+</resources>

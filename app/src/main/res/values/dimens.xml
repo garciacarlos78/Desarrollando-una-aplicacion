@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margenIzquierdo">8dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="textview_padding">4dp</dimen>
+</resources>
