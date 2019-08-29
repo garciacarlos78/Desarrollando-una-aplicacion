@@ -6,7 +6,7 @@ Desarrollado con 2 opciones:
   
  -Opción 2:
     Cuando iniciamos la Activity ConfirmarDatos destruímos MainActivity.
-    Con esta opción liberamos memoria, a cambio de tener que enviar los datos de vuelta al presiona el botón Editar Datos
+    Con esta opción liberamos memoria, a cambio de tener que enviar los datos de vuelta al presionar el botón Editar Datos
  
  Proyecto subido con opción 2, para utilizar opción 1:
  
