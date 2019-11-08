@@ -37,6 +37,10 @@ Desarrollado con 2 opciones:
         MainActivity: 55-61
         ConfirmarDatos: 47-54
 
+En ambos casos, se tiene en cuenta si se ha dejado algún campo vacío y se muestra esta falta de información en la Activity 2.
+
+Por ejemplo, si no introducimos el teléfono, la Activity 2 mostrará "No se ha introducido el teléfono." en la pantalla de confirmación de datos. Si desde esta pantalla volvemos a la Main Activity mediante el botón "Editar Datos", el campo del teléfono volverá a aparecer vacío.
+
 # Capturas de pantalla
 ## Activity 1 (MainActivity)
 ![MainActivity](Pantallazos/MainActivity.png)
